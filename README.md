@@ -1,2 +1,2 @@
 # DiscardClient
-I messaging service
+A messaging service
