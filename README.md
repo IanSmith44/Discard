@@ -1,2 +1,2 @@
-# DiscardClient
+# Discard
 A messaging service
